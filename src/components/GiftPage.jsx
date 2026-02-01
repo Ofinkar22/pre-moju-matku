@@ -203,7 +203,7 @@ export default function GiftPage() {
                       transition={{ duration: 0.8, delay: 0.6 }}
                       className="text-lg text-purple-200 leading-relaxed"
                     >
-                      Srandujem...Sľubujem, že keĎ sa vrátiš, že si ťa budem híčkať ako princeznú, každý jeden deň. Tvoje city ku mne, už nikdy nebudem spochybňovať a vyvracať. Si pre mňa všetkým.💖
+                      Srandujem...Sľubujem, že keď sa vrátiš, že si ťa budem híčkať ako princeznú, každý jeden deň. Tvoje city ku mne, už nikdy nebudem spochybňovať a vyvracať. Si pre mňa všetkým.💖
                     </motion.p>
                     <motion.p
                       initial={{ opacity: 0, y: 15 }}
